@@ -1,0 +1,81 @@
+body{
+	background-color: rgba(200,147,136,0.5);
+}
+
+h1{
+	margin-bottom: -10px;
+}
+
+h2, .contenedor h3{
+	font-size: 40px;
+	font-family: fantasy;
+	color:white;
+	margin-top:20px;
+	margin-bottom: 0px;
+}
+
+.redes{
+	display: inline-block;
+	position: absolute;
+	top:-5px;
+	left: 5%;
+	color: white;
+	font-size: 15px;
+	margin-top:20px;
+}
+
+.redes a > img{
+	height: 45px;
+	vertical-align: middle;
+}
+
+#primera, #ultima{
+	border-top: 10px solid purple;
+	margin-top: 15px;
+	padding-top: 0px;
+	width: 100%;
+}
+
+.principal{
+	width: 100%;
+	height: 100%;
+}
+
+#ultima{
+	margin-bottom: 70px;
+}
+
+footer{
+	width: 100%;
+	height: 50px;
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	background-color: gray;
+	padding-top: 20px;
+}
+
+
+footer > span{
+	float: right;
+	color: white;
+	position: relative;
+	top: 25%;
+	font-size: 12px;
+}
+
+footer div + span{
+	float: top;
+	right: 750px;
+	font-size: 15px;
+
+}
+
+main{
+	position: relative;
+	top: 70px;
+	display: inline-block;
+	padding-bottom: 90px;
+	width: 100%;
+}
+
