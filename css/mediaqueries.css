@@ -457,7 +457,7 @@
 		width: 100%;
 		height: auto;
 		z-index: 99;
-		margin-bottom: 950px;
+		margin-bottom: 1100px;
 	}
 
 	nav a > img{
@@ -485,7 +485,7 @@
 		padding-right:300px;
 		padding-bottom: 38px;
 		margin-bottom: 10px;
-		font-size: 25px;
+		font-size: 40px;
 		font-style: oblique;
 	}
 
@@ -504,7 +504,7 @@
 		color: white;	
 		text-align: center;
 		letter-spacing: 20px;
-		font-size: 30px;
+		font-size: 50px;
 		font-family: fantasy;
 		margin-bottom: 0px;
 	}
@@ -515,7 +515,7 @@
 		color: white;
 		text-shadow: 2px 2px 4px black;
 		letter-spacing: 5px;
-		font-size: 10px;
+		font-size: 20px;
 	}
 
 	#productos{
@@ -557,7 +557,7 @@
 
 	.contenedor_card{
 		padding: 2px 16px;
-		font-size: 15px;
+		font-size: 25px;
 	}
 
 
@@ -602,5 +602,8 @@
 		height: 450px;
 	}
 
+	form{
+		font-size: 30px;
+	}
 
 }	
